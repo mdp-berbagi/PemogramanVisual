@@ -1,0 +1,9 @@
+D:\Aziz\Pemograman Visual 1\P3\Aplikasi Pertama\Aplikasi Pertama\bin\Debug\Aplikasi Pertama.exe.config
+D:\Aziz\Pemograman Visual 1\P3\Aplikasi Pertama\Aplikasi Pertama\bin\Debug\Aplikasi Pertama.exe
+D:\Aziz\Pemograman Visual 1\P3\Aplikasi Pertama\Aplikasi Pertama\bin\Debug\Aplikasi Pertama.pdb
+D:\Aziz\Pemograman Visual 1\P3\Aplikasi Pertama\Aplikasi Pertama\obj\Debug\Aplikasi Pertama.csprojAssemblyReference.cache
+D:\Aziz\Pemograman Visual 1\P3\Aplikasi Pertama\Aplikasi Pertama\obj\Debug\Aplikasi_Pertama.Form1.resources
+D:\Aziz\Pemograman Visual 1\P3\Aplikasi Pertama\Aplikasi Pertama\obj\Debug\Aplikasi_Pertama.Properties.Resources.resources
+D:\Aziz\Pemograman Visual 1\P3\Aplikasi Pertama\Aplikasi Pertama\obj\Debug\Aplikasi Pertama.csproj.GenerateResource.cache
+D:\Aziz\Pemograman Visual 1\P3\Aplikasi Pertama\Aplikasi Pertama\obj\Debug\Aplikasi Pertama.exe
+D:\Aziz\Pemograman Visual 1\P3\Aplikasi Pertama\Aplikasi Pertama\obj\Debug\Aplikasi Pertama.pdb
