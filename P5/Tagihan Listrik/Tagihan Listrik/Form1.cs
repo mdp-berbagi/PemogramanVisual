@@ -191,6 +191,7 @@ namespace Tagihan_Listrik
             {
                 this.bayar = Convert.ToDouble(txtBayar.Text);
                 txtBayar.Text = this.bayar.ToString("#,##0");
+                txtBayar.SelectionStart = txtBayar.TextLength;
 
                 if (this.bayar < this.tagihan)
                 {
