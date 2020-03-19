@@ -1,9 +1,0 @@
-D:\Aziz\Pemograman Visual 1\P4\Tagihan Listrik\Tagihan Listrik\bin\Debug\Tagihan Listrik.exe.config
-D:\Aziz\Pemograman Visual 1\P4\Tagihan Listrik\Tagihan Listrik\bin\Debug\Tagihan Listrik.exe
-D:\Aziz\Pemograman Visual 1\P4\Tagihan Listrik\Tagihan Listrik\bin\Debug\Tagihan Listrik.pdb
-D:\Aziz\Pemograman Visual 1\P4\Tagihan Listrik\Tagihan Listrik\obj\Debug\Tagihan Listrik.csprojAssemblyReference.cache
-D:\Aziz\Pemograman Visual 1\P4\Tagihan Listrik\Tagihan Listrik\obj\Debug\Tagihan_Listrik.TemplateForm.resources
-D:\Aziz\Pemograman Visual 1\P4\Tagihan Listrik\Tagihan Listrik\obj\Debug\Tagihan_Listrik.Properties.Resources.resources
-D:\Aziz\Pemograman Visual 1\P4\Tagihan Listrik\Tagihan Listrik\obj\Debug\Tagihan Listrik.csproj.GenerateResource.cache
-D:\Aziz\Pemograman Visual 1\P4\Tagihan Listrik\Tagihan Listrik\obj\Debug\Tagihan Listrik.exe
-D:\Aziz\Pemograman Visual 1\P4\Tagihan Listrik\Tagihan Listrik\obj\Debug\Tagihan Listrik.pdb
