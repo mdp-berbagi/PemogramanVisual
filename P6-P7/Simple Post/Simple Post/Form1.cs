@@ -14,9 +14,34 @@ namespace Simple_Post
     {
         private int harga;
 
+        private byte activeProduct;
+        private object[] product;
+
         public ipos()
         {
             InitializeComponent();
+        }
+
+        private void productSetter()
+        {
+
+            var newData = new Dictionary<string, object>();
+            newData.Add("Name", "HDD Toshiba 1TB - 300Q");
+            newData.Add("Price", 680000);
+
+            this.product[0] = newData;
+
+            newData = new Dictionary<string, object>();
+            newData.Add("Name", "HDD WD Blue 1TB");
+            newData.Add("Price", 150000);
+
+            this.product[1] = newData;
+
+            newData = new Dictionary<string, object>();
+            newData.Add("Name", "Sandisk Ultra 64GB");
+            newData.Add("Price", 100000);
+
+            this.product[2] = newData;
         }
 
 
@@ -28,10 +53,16 @@ namespace Simple_Post
          */
         private void isiProduk()
         {
+
             inputProduk.Items.Clear();
-            inputProduk.Items.Add("HDD Toshiba 1TB - 300Q");
-            inputProduk.Items.Add("HDD WD Blue 1TB");
-            inputProduk.Items.Add("Sandisk Ultra 64GB");
+            // inputProduk.Items.Add("HDD Toshiba 1TB - 300Q");
+            // inputProduk.Items.Add("HDD WD Blue 1TB");
+            // inputProduk.Items.Add("Sandisk Ultra 64GB");
+
+            foreach (Dictionary<string, object> row in this.product)
+            {
+                inputProduk.Items.Add(row["Name"]);
+            }
         }
 
         /**
@@ -80,6 +111,7 @@ namespace Simple_Post
         {
             this.formaterInputBelanja();
             this.resetForm();
+            this.productSetter();
         }
 
         /**

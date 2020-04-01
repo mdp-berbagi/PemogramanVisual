@@ -1,0 +1,10 @@
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas\BukuTamu\BukuTamu\bin\Debug\BukuTamu.exe.config
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas\BukuTamu\BukuTamu\bin\Debug\BukuTamu.exe
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas\BukuTamu\BukuTamu\bin\Debug\BukuTamu.pdb
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas\BukuTamu\BukuTamu\obj\Debug\BukuTamu.csprojAssemblyReference.cache
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas\BukuTamu\BukuTamu\obj\Debug\BukuTamu.Properties.Resources.resources
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas\BukuTamu\BukuTamu\obj\Debug\BukuTamu.csproj.GenerateResource.cache
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas\BukuTamu\BukuTamu\obj\Debug\BukuTamu.csproj.CoreCompileInputs.cache
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas\BukuTamu\BukuTamu\obj\Debug\BukuTamu.exe
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas\BukuTamu\BukuTamu\obj\Debug\BukuTamu.pdb
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas\BukuTamu\BukuTamu\obj\Debug\BukuTamu.index.resources
