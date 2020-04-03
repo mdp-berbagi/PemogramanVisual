@@ -1,0 +1,13 @@
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas2\RestApiExample\RestApiExample\bin\Debug\RestApiExample.exe.config
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas2\RestApiExample\RestApiExample\bin\Debug\RestApiExample.exe
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas2\RestApiExample\RestApiExample\bin\Debug\RestApiExample.pdb
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas2\RestApiExample\RestApiExample\obj\Debug\RestApiExample.csprojAssemblyReference.cache
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas2\RestApiExample\RestApiExample\obj\Debug\RestApiExample.ApiInterface.resources
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas2\RestApiExample\RestApiExample\obj\Debug\RestApiExample.Properties.Resources.resources
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas2\RestApiExample\RestApiExample\obj\Debug\RestApiExample.csproj.GenerateResource.cache
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas2\RestApiExample\RestApiExample\obj\Debug\RestApiExample.csproj.CoreCompileInputs.cache
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas2\RestApiExample\RestApiExample\obj\Debug\RestApiExample.exe
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas2\RestApiExample\RestApiExample\obj\Debug\RestApiExample.pdb
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas2\RestApiExample\RestApiExample\bin\Debug\Newtonsoft.Json.dll
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas2\RestApiExample\RestApiExample\bin\Debug\Newtonsoft.Json.xml
+Z:\project\Kampus\Kelas\PemogramanVisual\Tugas2\RestApiExample\RestApiExample\obj\Debug\RestApiExample.csproj.CopyComplete
