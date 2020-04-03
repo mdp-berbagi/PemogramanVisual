@@ -16,7 +16,7 @@ namespace BukuTamu
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new index());
+            Application.Run(new AdminForm());
         }
     }
 }
