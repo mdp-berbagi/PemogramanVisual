@@ -41,12 +41,14 @@ namespace RestApiExample
 
         private JArray getData()
         {
-            Console.WriteLine("Fetching Data..");
+            Console.WriteLine("Fetching Data...");
 
             HttpResponseMessage res = this.apiKawalKorona.GetAsync("/").Result;
             if (!res.IsSuccessStatusCode)
             {
                 Console.WriteLine("Error to get data");
+                this.Close();
+                return new JArray();
             }
 
             String jsonString = res.Content.ReadAsStringAsync().Result;
@@ -69,6 +71,8 @@ namespace RestApiExample
                 // Dynamic karna tidak ada interface
                 dynamic row = obj_row.GetValue("attributes");
 
+                Console.WriteLine("Putting " + row.Country_Region + " data..");
+
                 table.Rows.Add();
                 table.Rows[i].Cells[0].Value = row.Country_Region;
                 table.Rows[i].Cells[1].Value = row.Confirmed;
@@ -77,6 +81,8 @@ namespace RestApiExample
                 table.Rows[i].Cells[4].Value = row.Active;
 
                 i++;
+
+                Console.WriteLine("Data has been put");
             }
         }
     }
